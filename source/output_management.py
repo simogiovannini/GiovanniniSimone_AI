@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 
-# Credits to: https://machinelearningmastery.com/k-fold-cross-validation/
+# Credits to: https://towardsdatascience.com/simple-little-tables-with-matplotlib-9780ef5d0bc4
 def plotScoresTable(scores, datasetName):
     plt.close()
     var = 0
