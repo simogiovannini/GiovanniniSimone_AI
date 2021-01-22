@@ -20,7 +20,7 @@ Istruzioni per l'utilizzo del codice scritto per l'esercizio
 	cartella source.
 
 4. Il metodo con il quale stampo le tabelle è ispirato alla guida:
-	https://machinelearningmastery.com/k-fold-cross-validation/
+	https://towardsdatascience.com/simple-little-tables-with-matplotlib-9780ef5d0bc4
 	Ho solamente adattato il codice alle mie esigenze.
 
 Simone Giovannini
