@@ -1,6 +1,9 @@
 Istruzioni per l'utilizzo del codice scritto per l'esercizio
 
-0. Nel dataset German, gli spazi tra i vari attributi erano diversi: 
+0. Tutti i pacchetti e le librerie necessarie ad eseguire questo codice
+	sono salvate nel file requirements.txt. Evito quindi di salvare
+	la cartella venv su Github.
+1. Nel dataset German, gli spazi tra i vari attributi erano diversi: 
 	ho dovuto, quindi, scaricare e riformattare il file.
 	Il codice, perciò, utilizzerà i datasets riposti nella cartella
 	datasets e non accederà a quelli del database UCI tramite link.
